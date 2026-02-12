@@ -4,8 +4,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-
-// Arrays for keywords and operators as mentioned in transcription
+// Arrays for keywords and operators
 const char *keywords[] = {"auto",     "break",   "case",   "char",     "const",
                           "continue", "default", "do",     "double",   "else",
                           "enum",     "extern",  "float",  "for",      "goto",
