@@ -1,0 +1,12 @@
+# Compiled binaries
+*.exe
+*.out
+lexer
+
+# Object files
+*.o
+
+# IDE files
+.vscode/
+.idea/
+*.swp
