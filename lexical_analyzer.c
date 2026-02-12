@@ -1,11 +1,9 @@
+#include "lexical_analyzer.h"
 #include <ctype.h>
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
 
-
-#define MAX_TOKEN_LEN 100
-#define MAX_LINE_LEN 256
 
 // Arrays for keywords and operators as mentioned in transcription
 const char *keywords[] = {"auto",     "break",   "case",   "char",     "const",
